@@ -1,0 +1,17 @@
+{
+    "onedrive-path": "C:\\Users\\thoma\\OneDrive\\Documents",
+    "saved-paths": [{
+        "path": "D:\\Users\\Thomas\\Documents\\The Tale of Great Cosmos",
+        "dest-dirname": "The Tale of Great Cosmos"
+    },
+    {
+        "path": "D:\\Users\\Thomas\\Documents\\Autres JDR",
+        "dest-dirname": "Autres JDR"
+    },
+    {
+        "path": "D:\\Users\\Thomas\\Documents\\Random",
+        "dest-dirname": "Random"
+    }],
+    "backup-directory": "Backup",
+    "deep-copy": true
+}
